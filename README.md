@@ -1,5 +1,5 @@
 # Steve's Modding Tools!
-## *A "legal" client that only works in modded lobbies!*
+## *A mod that lets you toggle any option you want!*
 
 How to install
 1. Install Utilla with Buzz's MMM
